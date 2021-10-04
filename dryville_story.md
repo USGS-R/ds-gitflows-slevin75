@@ -37,3 +37,7 @@ You're happy until the Hewlett family downstream starts complaining about your r
 ## Your first flood
 
 You're again happy until the first desert downpour hits. The rain flows down the hills (runoff) into Dryville's town center and suddenly you have your first flood — more unwanted water (and the mud it carries with it) to deal with. You decide to build a set of storm drains to fix this problem. Lay some more (this time BIG) pipes through town with intakes where the water collects in low spots. Storm water will flow into these pipes and be sent on its way downhill into your creek. Another problem solved.
+
+## storing water for a rainy day
+
+You start thinking... a reservoir (you can call it a lake) above town could really serve a lot of purposes. A lake will provide a place for you to have fun — go swimming, boating, catch catfish, and relax. You can run your water-supply intake pipes from the lake instead of from your creek, especially since the flood destroyed your water-intake pumping station. 
